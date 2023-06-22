@@ -1,4 +1,4 @@
-# DiscordBotTemplate
+# Typescript Discord Bot Template
 
 DiscordBotTemplate is a TypeScript-based Discord bot template that provides a dynamic slash command and event system. It serves as a starting point for creating powerful and extensible Discord bots with ease.
 
