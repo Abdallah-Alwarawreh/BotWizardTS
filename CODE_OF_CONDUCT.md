@@ -2,7 +2,7 @@
 
 ## Introduction
 
-As contributors and maintainers of the DiscordBotTemplate project, we are committed to creating a friendly and inclusive environment for everyone. We value the participation of individuals from all backgrounds and perspectives and want to ensure a positive experience for all community members.
+As contributors and maintainers of the BotWizardTS project, we are committed to creating a friendly and inclusive environment for everyone. We value the participation of individuals from all backgrounds and perspectives and want to ensure a positive experience for all community members.
 
 This code of conduct outlines our expectations for participants' behavior when engaging with the project, its contributors, and the community. It applies to all community interactions, both online and offline.
 
@@ -18,7 +18,7 @@ In the interest of fostering an open and welcoming environment, we, as contribut
 
 ## Expected Behavior
 
-We expect all participants in the DiscordBotTemplate community to abide by the following guidelines:
+We expect all participants in the BotWizardTS community to abide by the following guidelines:
 
 - Treat all individuals with respect, kindness, and empathy.
 - Be inclusive and considerate of diverse opinions, backgrounds, and experiences.
@@ -57,5 +57,5 @@ If you have any questions or concerns regarding this code of conduct, please get
 
 ## License
 
-By participating in the DiscordBotTemplate community, you agree to adhere to the terms outlined in the [LICENSE](LICENSE) file.
+By participating in the BotWizardTS community, you agree to adhere to the terms outlined in the [LICENSE](LICENSE) file.
 
