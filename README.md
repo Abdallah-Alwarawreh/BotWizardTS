@@ -57,7 +57,7 @@ npm start
 
 To create a new slash command, follow these steps:
 
-1. Create a new TypeScript file under the `src/Commands/<CommandName>.ts` directory.
+1. Create a new TypeScript file under the `src/Commands/<CommandCategory>/<CommandName>.ts` directory.
 2. Define your command using the provided decorators and interfaces.
 3. Implement the command's functionality.
 
