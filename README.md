@@ -1,6 +1,6 @@
 # Typescript Discord Bot Template
 
-DiscordBotTemplate is a TypeScript-based Discord bot template that provides a dynamic slash command and event system. It serves as a starting point for creating powerful and extensible Discord bots with ease.
+BotWizardTS is a TypeScript-based Discord bot template that provides a dynamic slash command and event system. It serves as a starting point for creating powerful and extensible Discord bots with ease.
 
 ## Features
 
@@ -13,7 +13,7 @@ DiscordBotTemplate is a TypeScript-based Discord bot template that provides a dy
 
 ## Prerequisites
 
-To use DiscordBotTemplate, make sure you have the following prerequisites installed:
+To use BotWizardTS, make sure you have the following prerequisites installed:
 
 - Node.js (version 12 or higher)
 - npm (Node Package Manager)
@@ -21,18 +21,18 @@ To use DiscordBotTemplate, make sure you have the following prerequisites instal
 
 ## Getting Started
 
-Follow the steps below to get started with DiscordBotTemplate:
+Follow the steps below to get started with BotWizardTS:
 
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/Abdallah-Alwarawreh/DiscordBotTemplate.git
+git clone https://github.com/Abdallah-Alwarawreh/BotWizardTS.git
 ```
 
 2. Install the project dependencies:
 
 ```bash
-cd DiscordBotTemplate
+cd BotWizardTS
 npm install
 ```
 
@@ -81,7 +81,7 @@ Make sure to import the necessary decorators and interfaces from the `discord.js
 
 ## Handling Discord Events
 
-DiscordBotTemplate provides an event system that allows you to handle various Discord events. To create an event handler, follow these steps:
+BotWizardTS provides an event system that allows you to handle various Discord events. To create an event handler, follow these steps:
 
 1. Create a new TypeScript file under the `src/Events/<EventName>.ts` directory.
 2. Define your event handler using the provided decorators and interfaces.
@@ -102,7 +102,7 @@ export default new Event("messageCreate", async (message) => {
 
 ## Contributing
 
-Contributions are welcome! If you want to contribute to DiscordBotTemplate, please follow the guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+Contributions are welcome! If you want to contribute to BotWizardTS, please follow the guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
 
 ## License
 
